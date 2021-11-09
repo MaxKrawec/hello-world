@@ -1,2 +1,5 @@
 # hello-world
-First repository. 
+
+Hello, I'm Max.
+
+I'm learning how to use GitHub for the first time.
